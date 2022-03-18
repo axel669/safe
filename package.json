@@ -1,0 +1,19 @@
+{
+  "name": "safe",
+  "version": "1.0.0",
+  "description": "Library for changing how we write error handling in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axel669/safe.git"
+  },
+  "author": "Axel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/axel669/safe/issues"
+  },
+  "homepage": "https://github.com/axel669/safe#readme"
+}
